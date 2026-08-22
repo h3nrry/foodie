@@ -1,6 +1,6 @@
 # 鍋牛鍋物 Guo Niu Hot Pot
 
-[← Back to Minzu / Xida Rd. area 民族路・西大路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Minzu / Xida Rd. area 民族路・西大路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Hot Pot 火鍋  
 **Area / 地區:** East District 東區  

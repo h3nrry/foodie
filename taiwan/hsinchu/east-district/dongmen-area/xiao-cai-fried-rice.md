@@ -1,6 +1,6 @@
 # 小蔡炒飯食堂 Xiao Cai Fried Rice Kitchen
 
-[← Back to Dongmen / Zhongyang Rd. area 東門・中央路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Dongmen / Zhongyang Rd. area 東門・中央路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Fried Rice 炒飯  
 **Area / 地區:** East District, Dongmen St. 東區東門街  

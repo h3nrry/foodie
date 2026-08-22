@@ -1,6 +1,6 @@
 # 雪之湖咖啡 Snow Lake Coffee
 
-[← Back to Emei Lake area 峨眉湖區](./README.md) · [Emei Township 峨眉鄉 guide](../emei_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Emei Lake area 峨眉湖區](./README.md) · [Emei Township 峨眉鄉 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Cafés 咖啡廳  
 **Area / 地區:** Emei 峨眉  

@@ -1,6 +1,6 @@
 # LUAU PIZZA 柴寮披薩
 
-[← Back to Yuanpei St. area 元培街周邊](./README.md) · [Xiangshan District 香山區](../../xiangshan-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Yuanpei St. area 元培街周邊](./README.md) · [Xiangshan District 香山區](../../xiangshan-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Scenic / Destination Dining 景觀餐廳  
 **Area / 地區:** Xiangshan 香山  

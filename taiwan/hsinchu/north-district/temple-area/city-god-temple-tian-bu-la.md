@@ -1,6 +1,6 @@
 # 城隍廟口甜不辣 City God Temple Tian Bu La
 
-[← Back to City God Temple / Zhongshan Rd. area 城隍廟・中山路周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to City God Temple / Zhongshan Rd. area 城隍廟・中山路周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Street Food & Snacks 小吃  
 **Area / 地區:** Renze St., near City God Temple 城隍廟仁化街  

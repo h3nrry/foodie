@@ -2,9 +2,26 @@
 
 所有項目依餐飲／飲品分類
 
-📍 Browse by area instead: [Browse by area (taiwan_food.md)](./taiwan_food.md)
+## 📍 Browse by Area 依區域瀏覽
 
-130 spots in this folder, split into Food and Drink. More categories may be added here in the future.
+A blog-sourced shortlist of what to eat and drink in Taiwan, organized administratively: Taiwan → City / County → District (or township) → Area. Currently covers the Hsinchu region (Hsinchu City + Hsinchu County); more cities/counties will be added as guides are built out.
+
+彙整自台灣美食部落格的口袋名單，依行政層級分層：台灣 → 直轄市／縣市 → 行政區（或鄉鎮） → 區域。目前涵蓋新竹地區（新竹市＋新竹縣），未來將持續新增其他縣市導覽。
+
+| Entity | Guide | Structure |
+|---|---|---|
+| Hsinchu City 新竹市 (city) | [`hsinchu/README.md`](./hsinchu/README.md) | 3 districts → 38 areas → 100 spots |
+| Hsinchu County 新竹縣 (county) | [`hsinchu-county/README.md`](./hsinchu-county/README.md) | 13 townships → 21 areas → 40 spots |
+
+### About / 關於本清單
+
+All entries are aggregated from blog posts (linked in each area file) — they reflect those authors' opinions, not a personal or verified review by this repo. Area names are informal neighborhood/commercial-zone labels derived from each address (main road, village, or known local zone), not official boundaries. Prices, hours, and whether a shop is still open can change; always check the source post or call ahead, especially for reservation-only spots.
+
+所有項目皆彙整自部落格文章（各區域檔案中皆附連結），代表原作者觀點，並非本清單親自驗證。區域名稱是依地址（主要道路、村里或知名地區）歸納之非正式參考，並非官方行政劃分。價位、營業時間與店家是否仍在營業可能已異動，建議出發前查閱原文或致電確認，特別是需預約制的店家。
+
+---
+
+140 spots in this folder, split into Food and Drink. More categories may be added here in the future.
 
 此資料夾共有以下項目，依「餐飲」與「飲品」分類列出。未來可能會新增更多分類。
 
@@ -32,6 +49,7 @@
 | 鷹王肉圓 Eagle King Meatballs | Yanping Rd. area 延平路周邊 | [view](./hsinchu/xiangshan-district/yanping-rd/eagle-king-meatballs.md) |
 | 劉家莊燜雞 Liu's Iron-Box Braised Chicken | Xinpu countryside area 新埔鄉間 | [view](./hsinchu-county/xinpu/countryside/liu-family-braised-chicken.md) |
 | 竹東夜市 Zhudong Night Market | Zhudong downtown area 竹東市區（沿河街・中豐路） | [view](./hsinchu-county/zhudong/downtown/zhudong-night-market.md) |
+| 禾米雞腿大王 | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/hemi-chicken-leg-king.md) |
 
 ### Hot Pot 火鍋
 
@@ -53,6 +71,8 @@
 | 博多一幸舍拉麵 Hakata Ikkousha Ramen | Guanxin area 關新地區 | [view](./hsinchu/east-district/guanxin-area/hakata-ikkousha-ramen.md) |
 | UDON讚岐烏龍麵-關新店 Sanuki Udon | Guanxin area 關新地區 | [view](./hsinchu/east-district/guanxin-area/udon-sanuki-guanxin.md) |
 | 大戶屋（新竹SOGO店）Ootoya | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./hsinchu/east-district/dongmen-area/ootoya-sogo.md) |
+| 寧居酒屋 | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/ning-izakaya-jinshan.md) |
+| 大海拉麵 | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/taikai-ramen-jinshan.md) |
 
 ### BBQ 燒烤
 
@@ -120,6 +140,7 @@
 | Name | Area | Details |
 |---|---|---|
 | 漢神鐵板燒-關新店 Han Shen Teppanyaki | Guanxin area 關新地區 | [view](./hsinchu/east-district/guanxin-area/hanshen-teppanyaki-guanxin.md) |
+| 大饌鐵板燒 | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/dazuan-teppanyaki-jinshan.md) |
 
 ### Hunan Chinese 湖南菜
 
@@ -155,6 +176,7 @@
 | Name | Area | Details |
 |---|---|---|
 | 鼎泰豐（新竹大遠百店）Din Tai Fung | Minzu / Xida Rd. area 民族路・西大路周邊 | [view](./hsinchu/east-district/minzu-xida/dintaifung-feds.md) |
+| 游麵館 | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/yu-noodle-jinshan.md) |
 
 ### Buffet 自助餐
 
@@ -168,6 +190,36 @@
 |---|---|---|
 | 搖滾披薩 Pizza Rock（新竹店） | Guangfu Rd. area 光復路周邊 | [view](./hsinchu/east-district/guangfu-rd/pizza-rock-hsinchu.md) |
 | 搖滾披薩 Pizza Rock（竹北店） | Liujia area 六家地區（光明・六家） | [view](./hsinchu-county/zhubei/liujia-area/pizza-rock-zhubei.md) |
+
+### French 法式料理
+
+| Name | Area | Details |
+|---|---|---|
+| Garden Party | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/garden-party-jinshan.md) |
+
+### Cantonese 港式料理
+
+| Name | Area | Details |
+|---|---|---|
+| 陳興記 | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/chen-xing-ji-jinshan.md) |
+
+### Southeast Asian 南洋料理
+
+| Name | Area | Details |
+|---|---|---|
+| Daima大馬南洋料理 | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/daima-southeast-asian.md) |
+
+### Mediterranean 地中海料理
+
+| Name | Area | Details |
+|---|---|---|
+| 凡妮莎南歐花園餐廳 | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/vanessa-mediterranean-garden.md) |
+
+### Sichuan 川味
+
+| Name | Area | Details |
+|---|---|---|
+| 墨竹亭麵本家 | Jinshan St. area 金山街周邊 | [view](./hsinchu/east-district/jinshan-area/muzhuting-noodle-jinshan.md) |
 
 ### Desserts & Afternoon Tea 甜點下午茶
 

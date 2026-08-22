@@ -1,6 +1,6 @@
 # Yu. Tarte & Yu. Pudding
 
-[← Back to Shengli Rd. area 勝利路周邊（東區）](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Shengli Rd. area 勝利路周邊（東區）](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Desserts & Afternoon Tea 甜點下午茶  
 **Area / 地區:** East District 東區  

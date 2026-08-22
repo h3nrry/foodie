@@ -1,6 +1,6 @@
 # 小木屋鬆餅 Little Wooden House Pancakes
 
-[← Back to University Rd. area 大學路（清交）周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to University Rd. area 大學路（清交）周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Desserts & Afternoon Tea 甜點下午茶  
 **Area / 地區:** Near NTHU/NCTU 清交周邊  

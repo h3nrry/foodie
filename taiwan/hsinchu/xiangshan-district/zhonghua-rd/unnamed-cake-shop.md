@@ -1,6 +1,6 @@
 # 沒有名字的蛋糕店 Unnamed Cake Shop
 
-[← Back to Zhonghua Rd. area 中華路周邊](./README.md) · [Xiangshan District 香山區](../../xiangshan-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Zhonghua Rd. area 中華路周邊](./README.md) · [Xiangshan District 香山區](../../xiangshan-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Desserts & Afternoon Tea 甜點下午茶  
 **Area / 地區:** Xiangshan 香山  

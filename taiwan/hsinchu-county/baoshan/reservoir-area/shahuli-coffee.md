@@ -1,6 +1,6 @@
 # 沙湖壢咖啡館
 
-[← Back to Baoshan Reservoir area 寶山水庫周邊](./README.md) · [Baoshan Township 寶山鄉 guide](../baoshan_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Baoshan Reservoir area 寶山水庫周邊](./README.md) · [Baoshan Township 寶山鄉 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Scenic / Destination Dining 景觀餐廳  
 **Area / 地區:** Baoshan 寶山  

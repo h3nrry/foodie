@@ -1,6 +1,6 @@
 # 幸福丸雄日式燒肉-關新店 Xingfu Maruyu Japanese BBQ
 
-[← Back to Guanxin area 關新地區](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Guanxin area 關新地區](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** BBQ 燒烤  
 **Area / 地區:** East District, Guanxin East Rd. 東區關新東路  

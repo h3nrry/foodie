@@ -1,6 +1,6 @@
 # 花院子
 
-[← Back to Liujia area 六家地區（光明・六家）](./README.md) · [Zhubei City 竹北市 guide](../zhubei_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Liujia area 六家地區（光明・六家）](./README.md) · [Zhubei City 竹北市 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Scenic / Destination Dining 景觀餐廳  
 **Area / 地區:** Zhubei 竹北  

@@ -1,6 +1,6 @@
 # 饗食天堂（新竹大遠百店）Xiangshi Tiantang Buffet
 
-[← Back to Minzu / Xida Rd. area 民族路・西大路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Minzu / Xida Rd. area 民族路・西大路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Buffet 自助餐  
 **Area / 地區:** East District, Xida Rd. (Far Eastern Dept Store food court) 東區西大路（大遠百美食街）  

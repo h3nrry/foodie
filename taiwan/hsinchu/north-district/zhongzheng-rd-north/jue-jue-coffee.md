@@ -1,6 +1,6 @@
 # 蕨蕨咖啡
 
-[← Back to Zhongzheng Rd. area 中正路周邊（北區）](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Zhongzheng Rd. area 中正路周邊（北區）](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Cafés 咖啡廳  
 **Area / 地區:** North District, Zhongzheng Rd. 北區中正路  

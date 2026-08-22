@@ -1,6 +1,6 @@
 # NARA Thai Cuisine（新竹SOGO店）
 
-[← Back to Dongmen / Zhongyang Rd. area 東門・中央路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Dongmen / Zhongyang Rd. area 東門・中央路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Thai 泰式料理  
 **Area / 地區:** East District, Zhongyang Rd. (SOGO / Big City food court) 東區中央路（SOGO／巨城美食街）  

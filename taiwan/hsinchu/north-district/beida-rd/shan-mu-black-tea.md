@@ -1,6 +1,6 @@
 # 山睦紅茶
 
-[← Back to Beida Rd. area 北大路周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Beida Rd. area 北大路周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Bubble Tea & Local Drink Shops 手搖飲  
 **Area / 地區:** North & East Districts 北區／東區  

@@ -1,6 +1,6 @@
 # 魯壁一家人
 
-[← Back to Yufeng / back-mountain area 玉峰・後山地區](./README.md) · [Jianshi Township 尖石鄉 guide](../jianshi_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Yufeng / back-mountain area 玉峰・後山地區](./README.md) · [Jianshi Township 尖石鄉 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Scenic / Destination Dining 景觀餐廳  
 **Area / 地區:** Jianshi 尖石  

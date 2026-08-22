@@ -1,6 +1,6 @@
 # Bar Approx. 將進酒
 
-[← Back to Jinshan St. area 金山街周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Jinshan St. area 金山街周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Bars 酒吧  
 **Area / 地區:** East District 東區  

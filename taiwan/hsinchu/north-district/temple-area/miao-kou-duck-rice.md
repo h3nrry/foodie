@@ -1,6 +1,6 @@
 # 廟口鴨香飯 Miao Kou Duck Rice
 
-[← Back to City God Temple / Zhongshan Rd. area 城隍廟・中山路周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to City God Temple / Zhongshan Rd. area 城隍廟・中山路周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Street Food & Snacks 小吃  
 **Area / 地區:** North District 北區  

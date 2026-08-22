@@ -1,6 +1,6 @@
 # 柒伍無煙燒肉 Qi Wu Smokeless BBQ
 
-[← Back to Jingguo / Datong Rd. BBQ strip 經國路・大同路燒烤一條街](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Jingguo / Datong Rd. BBQ strip 經國路・大同路燒烤一條街](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** BBQ 燒烤  
 **Area / 地區:** East District 東區  

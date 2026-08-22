@@ -1,6 +1,6 @@
 # 鶴橋日式居酒屋 Tsuruhashi Izakaya
 
-[← Back to Guanxin area 關新地區](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Guanxin area 關新地區](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Japanese 日式料理  
 **Area / 地區:** East District, Guanxin Rd. 東區關新路  

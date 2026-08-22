@@ -1,6 +1,6 @@
 # 劉家莊燜雞 Liu's Iron-Box Braised Chicken
 
-[← Back to Xinpu countryside area 新埔鄉間](./README.md) · [Xinpu Township 新埔鎮 guide](../xinpu_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Xinpu countryside area 新埔鄉間](./README.md) · [Xinpu Township 新埔鎮 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Street Food & Snacks 小吃  
 **Area / 地區:** Xinpu 新埔  

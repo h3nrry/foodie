@@ -1,6 +1,6 @@
 # 未然日風鐵板料理 Mizen Japanese Teppanyaki
 
-[← Back to Zhubei HSR District 竹北高鐵特區（文興・嘉豐・成功・東興）](./README.md) · [Zhubei City 竹北市 guide](../zhubei_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Zhubei HSR District 竹北高鐵特區（文興・嘉豐・成功・東興）](./README.md) · [Zhubei City 竹北市 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Japanese 日式料理  
 **Area / 地區:** Zhubei 竹北  

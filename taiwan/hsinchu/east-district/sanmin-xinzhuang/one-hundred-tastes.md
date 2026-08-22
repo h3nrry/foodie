@@ -1,6 +1,6 @@
 # 一百種味道 One Hundred Tastes
 
-[← Back to Sanmin / Xinzhuang St. area 三民路・新莊街周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Sanmin / Xinzhuang St. area 三民路・新莊街周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Desserts & Afternoon Tea 甜點下午茶  
 **Area / 地區:** East District 東區  

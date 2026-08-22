@@ -1,6 +1,6 @@
 # 原夜市鴨肉麵 Yuan Night Market Duck Noodles
 
-[← Back to Dongmen / Zhongyang Rd. area 東門・中央路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Dongmen / Zhongyang Rd. area 東門・中央路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Street Food & Snacks 小吃  
 **Area / 地區:** East District 東區  

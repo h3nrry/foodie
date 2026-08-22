@@ -1,6 +1,6 @@
 # 薏人界 • 甜品 Pearl Barley World Dessert
 
-[← Back to Xida Rd. area 西大路周邊（北區）](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Xida Rd. area 西大路周邊（北區）](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Desserts & Afternoon Tea 甜點下午茶  
 **Area / 地區:** North District 北區  

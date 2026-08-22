@@ -1,6 +1,6 @@
 # 蕭如松藝術園區
 
-[← Back to Zhudong cultural area 竹東文化區（瑞峰里・三民街）](./README.md) · [Zhudong Township 竹東鎮 guide](../zhudong_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Zhudong cultural area 竹東文化區（瑞峰里・三民街）](./README.md) · [Zhudong Township 竹東鎮 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Scenic / Destination Dining 景觀餐廳  
 **Area / 地區:** Zhudong 竹東  

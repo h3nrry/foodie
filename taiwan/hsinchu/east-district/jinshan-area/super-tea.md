@@ -1,6 +1,6 @@
 # Super.tea 一碗茶茶飲
 
-[← Back to Jinshan St. area 金山街周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Jinshan St. area 金山街周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Bubble Tea & Local Drink Shops 手搖飲  
 **Area / 地區:** East District 東區  

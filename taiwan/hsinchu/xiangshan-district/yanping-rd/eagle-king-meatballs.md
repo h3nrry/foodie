@@ -1,6 +1,6 @@
 # 鷹王肉圓 Eagle King Meatballs
 
-[← Back to Yanping Rd. area 延平路周邊](./README.md) · [Xiangshan District 香山區](../../xiangshan-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Yanping Rd. area 延平路周邊](./README.md) · [Xiangshan District 香山區](../../xiangshan-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Street Food & Snacks 小吃  
 **Area / 地區:** Xiangshan District 香山區  

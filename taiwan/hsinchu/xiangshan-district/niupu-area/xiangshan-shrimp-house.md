@@ -1,6 +1,6 @@
 # 新竹蝦暢複合式餐廳 Xiangshan Shrimp House
 
-[← Back to Niupu area 牛埔地區](./README.md) · [Xiangshan District 香山區](../../xiangshan-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Niupu area 牛埔地區](./README.md) · [Xiangshan District 香山區](../../xiangshan-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Seafood 海鮮  
 **Area / 地區:** Xiangshan 香山  

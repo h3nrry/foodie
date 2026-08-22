@@ -1,6 +1,6 @@
 # Hidden Off
 
-[← Back to Jianxing St. area 建興街周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Jianxing St. area 建興街周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Cafés 咖啡廳  
 **Area / 地區:** North District, Jianxing St. 北區建興街  

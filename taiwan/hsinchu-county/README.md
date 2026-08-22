@@ -1,6 +1,30 @@
 # Hsinchu County 新竹縣 — Food & Drink Index
 
-📍 Browse by area instead: [Browse by township (hsinchu-county_food.md)](./hsinchu-county_food.md)
+## 📍 Browse by Area 依區域瀏覽
+
+Townships within Hsinchu County, each treated as a "district" of the county — every township has its own guide (folded into its own README.md) linking to its area files. See the Taiwan index for Hsinchu City (the separate city entity next door).
+
+新竹縣下轄各鄉鎮市，於此視為縣的「行政區」層級 —— 每個鄉鎮皆有獨立導覽（併入該鄉鎮自身的 README.md），連結至各自的區域檔案。新竹市（獨立的直轄市項目）請見 Taiwan 首頁。
+
+40 spots across 13 township(s).
+
+| Township ("District") | File | Areas | Spots |
+|---|---|---|---|
+| Zhubei City 竹北市 | [zhubei/README.md](./zhubei/README.md) | 3 | 12 |
+| Zhudong Township 竹東鎮 | [zhudong/README.md](./zhudong/README.md) | 2 | 4 |
+| Xinpu Township 新埔鎮 | [xinpu/README.md](./xinpu/README.md) | 1 | 2 |
+| Guanxi Township 關西鎮 | [guanxi/README.md](./guanxi/README.md) | 1 | 1 |
+| Hukou Township 湖口鄉 | [hukou/README.md](./hukou/README.md) | 1 | 1 |
+| Xinfeng Township 新豐鄉 | [xinfeng/README.md](./xinfeng/README.md) | 1 | 1 |
+| Emei Township 峨眉鄉 | [emei/README.md](./emei/README.md) | 1 | 2 |
+| Baoshan Township 寶山鄉 | [baoshan/README.md](./baoshan/README.md) | 1 | 1 |
+| Jianshi Township 尖石鄉 | [jianshi/README.md](./jianshi/README.md) | 5 | 7 |
+| Wufeng Township 五峰鄉 | [wufeng/README.md](./wufeng/README.md) | 1 | 1 |
+| Hengshan Township 橫山鄉 | [hengshan/README.md](./hengshan/README.md) | 2 | 4 |
+| Xionglin Township 芎林鄉 | [xionglin/README.md](./xionglin/README.md) | 1 | 2 |
+| Beipu Township 北埔鄉 | [beipu/README.md](./beipu/README.md) | 1 | 2 |
+
+---
 
 40 spots in this folder, split into Food and Drink. More categories may be added here in the future.
 

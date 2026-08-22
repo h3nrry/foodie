@@ -1,6 +1,6 @@
 # 南大路無名攤車飯糰 Nanda Rd Rice Ball Cart
 
-[← Back to Nanda Rd. area 南大路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Nanda Rd. area 南大路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Breakfast Store 早餐店  
 **Area / 地區:** East District, Nanda Rd. 東區南大路  

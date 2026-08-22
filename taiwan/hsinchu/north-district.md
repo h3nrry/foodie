@@ -1,6 +1,6 @@
 # North District 北區 (Hsinchu City 新竹市)
 
-[← Back to Hsinchu City 新竹市 guide](./hsinchu_food.md) · [Taiwan index](../taiwan_food.md)
+[← Back to Hsinchu City 新竹市 guide](./README.md) · [Taiwan index](../README.md)
 
 21 spots across 13 area(s) in this district. Each area now has its own folder with an index page and one page per spot.
 

@@ -1,6 +1,6 @@
 # 芎林星巴克 Xionglin Starbucks
 
-[← Back to Xionglin area 芎林地區](./README.md) · [Xionglin Township 芎林鄉 guide](../xionglin_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Xionglin area 芎林地區](./README.md) · [Xionglin Township 芎林鄉 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Cafés 咖啡廳  
 **Area / 地區:** Xionglin 芎林  

@@ -1,16 +1,16 @@
 # East District 東區 (Hsinchu City 新竹市)
 
-[← Back to Hsinchu City 新竹市 guide](./hsinchu_food.md) · [Taiwan index](../taiwan_food.md)
+[← Back to Hsinchu City 新竹市 guide](./README.md) · [Taiwan index](../README.md)
 
-64 spots across 21 area(s) in this district. Each area now has its own folder with an index page and one page per spot.
+74 spots across 21 area(s) in this district. Each area now has its own folder with an index page and one page per spot.
 
-此行政區共 64 筆項目，分為 21 個區域。每個區域現為獨立資料夾，內含索引頁與各店家獨立頁面。
+此行政區共 74 筆項目，分為 21 個區域。每個區域現為獨立資料夾，內含索引頁與各店家獨立頁面。
 
 | Area | Spots |
 |---|---|
 | [Renai St. area 仁愛街周邊](./east-district/renai-st/README.md) | 2 |
 | [Jiangong 1st Rd. area 建功一路周邊](./east-district/jiangong-1rd/README.md) | 3 |
-| [Jinshan St. area 金山街周邊](./east-district/jinshan-area/README.md) | 2 |
+| [Jinshan St. area 金山街周邊](./east-district/jinshan-area/README.md) | 12 |
 | [Dongda Rd. area 東大路周邊](./east-district/dongda-rd/README.md) | 1 |
 | [Minzu / Xida Rd. area 民族路・西大路周邊](./east-district/minzu-xida/README.md) | 8 |
 | [Wenchang St. area 文昌街周邊](./east-district/wenchang-st/README.md) | 2 |

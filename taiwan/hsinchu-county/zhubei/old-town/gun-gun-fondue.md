@@ -1,6 +1,6 @@
 # 滾滾風居 Gun Gun Fondue
 
-[← Back to Zhubei old town area 竹北老城區（勝利路周邊）](./README.md) · [Zhubei City 竹北市 guide](../zhubei_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Zhubei old town area 竹北老城區（勝利路周邊）](./README.md) · [Zhubei City 竹北市 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Hot Pot 火鍋  
 **Area / 地區:** Zhubei 竹北  

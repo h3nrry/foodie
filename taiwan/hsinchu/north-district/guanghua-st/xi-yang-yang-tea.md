@@ -1,6 +1,6 @@
 # 囍羊羊手作茶坊
 
-[← Back to Guanghua N. St. area 光華北街周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Guanghua N. St. area 光華北街周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Bubble Tea & Local Drink Shops 手搖飲  
 **Area / 地區:** North District 北區  

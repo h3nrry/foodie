@@ -1,6 +1,6 @@
 # Bar Back Café
 
-[← Back to Changchun / Minquan / Minzhu Rd. bar cluster 長春街・民權路・民主路酒吧聚落](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Changchun / Minquan / Minzhu Rd. bar cluster 長春街・民權路・民主路酒吧聚落](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Bars 酒吧  
 **Area / 地區:** East District 東區  

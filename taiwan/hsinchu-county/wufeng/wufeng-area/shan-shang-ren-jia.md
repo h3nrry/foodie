@@ -1,6 +1,6 @@
 # 山上人家森林農場
 
-[← Back to Wufeng area 五峰地區](./README.md) · [Wufeng Township 五峰鄉 guide](../wufeng_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Wufeng area 五峰地區](./README.md) · [Wufeng Township 五峰鄉 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Scenic / Destination Dining 景觀餐廳  
 **Area / 地區:** Wufeng 五峰  

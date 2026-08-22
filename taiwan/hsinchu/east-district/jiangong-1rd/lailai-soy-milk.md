@@ -1,6 +1,6 @@
 # 來來豆漿店 Lailai Soy Milk
 
-[← Back to Jiangong 1st Rd. area 建功一路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Jiangong 1st Rd. area 建功一路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Breakfast Store 早餐店  
 **Area / 地區:** East District 東區  

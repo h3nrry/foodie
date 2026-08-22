@@ -1,6 +1,6 @@
 # 搖滾披薩 Pizza Rock（新竹店）
 
-[← Back to Guangfu Rd. area 光復路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Guangfu Rd. area 光復路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Pizza 披薩  
 **Area / 地區:** East District, Guangfu Rd. 東區光復路  

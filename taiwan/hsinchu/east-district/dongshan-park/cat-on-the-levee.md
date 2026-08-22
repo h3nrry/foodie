@@ -1,6 +1,6 @@
 # 河堤上的貓
 
-[← Back to Dongshan St. / Park Rd. area 東山街・公園路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Dongshan St. / Park Rd. area 東山街・公園路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Bubble Tea & Local Drink Shops 手搖飲  
 **Area / 地區:** East District 東區  

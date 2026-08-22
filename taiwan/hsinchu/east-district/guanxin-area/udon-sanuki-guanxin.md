@@ -1,6 +1,6 @@
 # UDON讚岐烏龍麵-關新店 Sanuki Udon
 
-[← Back to Guanxin area 關新地區](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Guanxin area 關新地區](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Japanese 日式料理  
 **Area / 地區:** East District, Guanxin 2nd St. 東區關新二街  

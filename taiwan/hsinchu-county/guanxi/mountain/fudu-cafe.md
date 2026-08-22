@@ -1,6 +1,6 @@
 # 福杜咖啡 Fudu Cafe
 
-[← Back to Guanxi mountain area 關西山區](./README.md) · [Guanxi Township 關西鎮 guide](../guanxi_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Guanxi mountain area 關西山區](./README.md) · [Guanxi Township 關西鎮 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Cafés 咖啡廳  
 **Area / 地區:** Guanxi 關西 (mountain area)  

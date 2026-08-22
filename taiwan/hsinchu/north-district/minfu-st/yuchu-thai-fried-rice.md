@@ -1,6 +1,6 @@
 # 御廚雲泰美食 Yuchu Cloud Thai Food
 
-[← Back to Minfu St. area 民富街周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Minfu St. area 民富街周邊](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Thai 泰式料理  
 **Area / 地區:** North District, Minfu St. 北區民富街  

@@ -1,6 +1,6 @@
 # BAR SPEAKEASY
 
-[← Back to Jingguo Rd. area 經國路周邊（北區）](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Jingguo Rd. area 經國路周邊（北區）](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Bars 酒吧  
 **Area / 地區:** North District 北區  

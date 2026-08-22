@@ -1,6 +1,6 @@
 # 摩斯漢堡 MOS Burger（新竹關新店）
 
-[← Back to Guanxin area 關新地區](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Guanxin area 關新地區](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Fast Food Chains 連鎖速食  
 **Area / 地區:** East District, Guanxin Rd. 東區關新路  

@@ -1,6 +1,6 @@
 # 新豐星巴克 Xinfeng Starbucks
 
-[← Back to Xinfeng area 新豐地區](./README.md) · [Xinfeng Township 新豐鄉 guide](../xinfeng_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Xinfeng area 新豐地區](./README.md) · [Xinfeng Township 新豐鄉 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Cafés 咖啡廳  
 **Area / 地區:** Xinfeng 新豐  

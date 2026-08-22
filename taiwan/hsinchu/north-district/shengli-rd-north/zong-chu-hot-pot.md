@@ -1,6 +1,6 @@
 # 宗初火鍋 Zong Chu Hot Pot
 
-[← Back to Shengli Rd. area 勝利路周邊（北區）](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Shengli Rd. area 勝利路周邊（北區）](./README.md) · [North District 北區](../../north-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Hot Pot 火鍋  
 **Area / 地區:** North District 北區  

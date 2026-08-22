@@ -1,6 +1,6 @@
 # 姐妹小籠包 Sisters Xiaolongbao
 
-[← Back to Minzu / Xida Rd. area 民族路・西大路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Minzu / Xida Rd. area 民族路・西大路周邊](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Breakfast Store 早餐店  
 **Area / 地區:** East District, Minzu / Xida Rd. 東區民族路・西大路  

@@ -1,6 +1,6 @@
 # 梅花雞蛋糕 Mei Hua Plum-Blossom Egg Cakes
 
-[← Back to Zhongzheng Rd. area 中正路周邊（東區）](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../hsinchu_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Zhongzheng Rd. area 中正路周邊（東區）](./README.md) · [East District 東區](../../east-district.md) · [Hsinchu City 新竹市 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Street Food & Snacks 小吃  
 **Area / 地區:** Zhongzheng Rd. 中正路  

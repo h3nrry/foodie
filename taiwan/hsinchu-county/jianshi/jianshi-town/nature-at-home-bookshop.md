@@ -1,6 +1,6 @@
 # 自然在家書坊
 
-[← Back to Jianshi town area 尖石市區周邊](./README.md) · [Jianshi Township 尖石鄉 guide](../jianshi_food.md) · [Hsinchu County 新竹縣 guide](../../hsinchu-county_food.md) · [Taiwan index](../../../taiwan_food.md)
+[← Back to Jianshi town area 尖石市區周邊](./README.md) · [Jianshi Township 尖石鄉 guide](../README.md) · [Hsinchu County 新竹縣 guide](../../README.md) · [Taiwan index](../../../README.md)
 
 **Category / 分類:** Scenic / Destination Dining 景觀餐廳  
 **Area / 地區:** Jianshi 尖石  
