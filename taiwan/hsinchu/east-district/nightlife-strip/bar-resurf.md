@@ -5,7 +5,11 @@
 **Category / 分類:** Bars 酒吧  
 **Area / 地區:** East District 東區  
 **Address / 地址:** 新竹市東區民主路107號  
-**Phone / 電話:** 03-5428282
+**Phone / 電話:** 03-5428282  
+**Hours / 營業時間:** Not verified yet — check Google Maps before going 尚未查證，請先查 Google 地圖  
+**Price / 價位:** Not verified yet 尚未查證  
+**Order / Booking 訂位・點餐:** Phone / walk-in 電話或現場  
+**Map / 地圖:** [Google Maps](https://www.google.com/maps/search/?api=1&query=Bar%20%E6%96%B0%E7%AB%B9%E5%B8%82%E6%9D%B1%E5%8D%80%E6%B0%91%E4%B8%BB%E8%B7%AF107%E8%99%9F)
 
 ## Why it's recommended / 推薦原因
 
@@ -13,12 +17,16 @@ Two-person-max intimate seating with moody, individually spotlighted setups.
 
 每組限兩人的私密座位，燈光聚焦氛圍靜謐。
 
-## Source / 資料來源
+## Menu highlights / 推薦菜單
 
-[好好玩 FUNIT](https://gofunit.com/%E6%96%B0%E7%AB%B9%E9%85%92%E5%90%A7/)
+- Not compiled yet — see the source article below 尚未整理，請見下方來源文章
 
-> Blog-sourced recommendation, not independently verified. Please confirm hours, phone, and whether the shop is still open before visiting.
-> 本頁資訊彙整自部落格文章，未經親自查證，出發前請務必確認營業時間、電話與店家是否仍在營業。
+## Sources / 資料來源
+
+- [好好玩 FUNIT](https://gofunit.com/%E6%96%B0%E7%AB%B9%E9%85%92%E5%90%A7/)
+
+> Compiled from the sources above; not independently verified (last reviewed 2026-10-26). Hours, prices and phones change — confirm before visiting.
+> 本頁資訊彙整自上列來源，未經親自查證（最後檢視 2026-10-26）；營業時間、價格與電話可能變動，出發前請先確認。
 
 ---
 
