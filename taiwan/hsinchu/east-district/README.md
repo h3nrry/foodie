@@ -2,12 +2,15 @@
 
 📍 Browse by area instead: [Browse by area](../east-district.md)
 
-94 spots in this folder, split into Food and Drink. More categories may be added here in the future.
+93 spots in this folder, split into Food and Drink. More categories may be added here in the future.
 
 此資料夾共有以下項目，依「餐飲」與「飲品」分類列出。未來可能會新增更多分類。
 
 > **Update 2026-10-26:** added 20 spots (7 teppanyaki 鐵板燒, 4 MICHELIN Bib Gourmand 必比登, 9 Big City 巨城), then cleaned the folder — every page now has the same fields (hours, price, menu, booking, map link), small categories were merged, single-spot areas folded into neighbours, and conflicting phones/addresses are flagged. Full reference list: [SOURCES.md](./SOURCES.md).
 > 2026-10-26 更新：新增 20 間後整理資料夾——所有頁面欄位統一（營業時間、價位、菜單、訂位、地圖），合併小分類與單店區域，並標註有衝突的電話地址。完整資料來源見 [SOURCES.md](./SOURCES.md)。
+
+> **Update 2026-10-26 (menus):** every spot in the Guanxin, Jinshan St. and Guangfu Rd. areas now has a **Menu / 菜單** section listing what the place serves with the prices found in sources. Three Guanxin spots are marked **Closed 已歇業** (博多一幸舍, 元鮨壽司, UDON讚岐烏龍麵 關新店); Jinshan addresses/phones were corrected; 大海拉麵 moved to the Shengli Rd. area (it is at 勝利路10號); 寧居酒屋 was removed because no source could confirm it exists.
+> 2026-10-26 菜單更新：關新、金山街、光復路各店新增「菜單」段落（品項與已查到的價格）；標示 3 間已歇業；更正金山街店家地址電話；大海拉麵移至勝利路區；寧居酒屋查無資料已移除。
 
 ---
 
@@ -63,12 +66,11 @@
 | 大戶屋（新竹SOGO店）Ootoya | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./dongmen-area/ootoya-sogo.md) |
 | 壽司郎（巨城店）Sushiro | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./dongmen-area/sushiro-bigcity.md) |
 | 屯京拉麵 Tonchin Ramen（巨城店） | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./dongmen-area/tonchin-ramen-bigcity.md) |
-| 博多一幸舍拉麵 Hakata Ikkousha Ramen | Guanxin area 關新地區 | [view](./guanxin-area/hakata-ikkousha-ramen.md) |
-| 元鮨壽司 Moto Sushi | Guanxin area 關新地區 | [view](./guanxin-area/moto-sushi-guanxin.md) |
+| 博多一幸舍拉麵 Hakata Ikkousha Ramen (Closed 已歇業) | Guanxin area 關新地區 | [view](./guanxin-area/hakata-ikkousha-ramen.md) |
+| 元鮨壽司 Moto Sushi (Closed 已歇業) | Guanxin area 關新地區 | [view](./guanxin-area/moto-sushi-guanxin.md) |
 | 鶴橋日式居酒屋 Tsuruhashi Izakaya | Guanxin area 關新地區 | [view](./guanxin-area/tsuruhashi-izakaya.md) |
-| UDON讚岐烏龍麵-關新店 Sanuki Udon | Guanxin area 關新地區 | [view](./guanxin-area/udon-sanuki-guanxin.md) |
-| 寧居酒屋 | Jinshan St. area 金山街周邊 | [view](./jinshan-area/ning-izakaya-jinshan.md) |
-| 大海拉麵 | Jinshan St. area 金山街周邊 | [view](./jinshan-area/taikai-ramen-jinshan.md) |
+| UDON讚岐烏龍麵-關新店 Sanuki Udon (Closed 已歇業) | Guanxin area 關新地區 | [view](./guanxin-area/udon-sanuki-guanxin.md) |
+| 大海拉麵 Dahai Ramen (Hsinchu) | Shengli Rd. area 勝利路周邊（東區） | [view](./shengli-rd-east/dahai-ramen-shengli.md) |
 
 ### Taiwanese & Hakka 台式・客家料理
 
@@ -128,9 +130,9 @@
 | 小蔡炒飯食堂 Xiao Cai Fried Rice Kitchen | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./dongmen-area/xiao-cai-fried-rice.md) |
 | 朱記餡餅粥店（巨城店）Zhu Ji | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./dongmen-area/zhuji-bigcity.md) |
 | 1010湘菜 1010 Hunan Cuisine | Guanxin area 關新地區 | [view](./guanxin-area/1010-hunan-cuisine-guanxin.md) |
-| 陳興記 | Jinshan St. area 金山街周邊 | [view](./jinshan-area/chen-xing-ji-jinshan.md) |
-| 墨竹亭麵本家 | Jinshan St. area 金山街周邊 | [view](./jinshan-area/muzhuting-noodle-jinshan.md) |
-| 游麵館 | Jinshan St. area 金山街周邊 | [view](./jinshan-area/yu-noodle-jinshan.md) |
+| 陳興記港式快餐店 Chen Xing Ji HK Roast Meats | Jinshan St. area 金山街周邊 | [view](./jinshan-area/chen-xing-ji-jinshan.md) |
+| 墨竹亭｜燃麵本家（新竹金山店） Mo Zhu Ting Ran-Mian Noodles | Jinshan St. area 金山街周邊 | [view](./jinshan-area/muzhuting-noodle-jinshan.md) |
+| 游麵館（金山店） Yu Noodle House | Jinshan St. area 金山街周邊 | [view](./jinshan-area/yu-noodle-jinshan.md) |
 | 鼎泰豐（新竹大遠百店）Din Tai Fung | Minzu / Xida Rd. area 民族路・西大路周邊 | [view](./minzu-xida/dintaifung-feds.md) |
 
 ### Fast Food Chains 連鎖速食

@@ -17,12 +17,17 @@ Five-star hotel teppanyaki for celebrations and business dinners; menus change s
 
 五星飯店鐵板燒，適合慶生與商務宴請；季節菜單主打頂級牛肉與活海鮮。
 
-## Menu highlights / 推薦菜單
+## Menu / 菜單
 
-- 日本宮崎A5和牛 Miyazaki A5 wagyu (2026 set option)
+*What this place serves, with every price we could find in the sources (NT$, year of the source in brackets). Most shops post their full menu as photos — use the menu link for the complete, current list.*  
+*本店供應品項與已查到的價格（新台幣，括號內為資料年份）。多數店家完整菜單為照片，最新完整菜單請見連結。*
+
+Seasonal set menus only 僅供應季節套餐 — NT$1,480–3,480 + 10% (2026):
+- 日本宮崎A5和牛 Miyazaki A5 wagyu (set option)
 - 美國龍蝦佐菲力牛排 Lobster with filet mignon
 - 美國安格斯菲力 / 頂級沙朗 Angus filet / prime sirloin
 - Summer 2026 special: Boston lobster three ways + US Prime ribeye 夏季限定波士頓龍蝦三吃、Prime 肋眼
+- Course contents change by season — check the hotel's current menu 套餐內容依季節更換，以飯店公告為準
 
 ## Sources / 資料來源
 

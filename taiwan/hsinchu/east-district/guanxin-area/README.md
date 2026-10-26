@@ -29,10 +29,10 @@
 
 | Name | Details |
 |---|---|
-| 博多一幸舍拉麵 Hakata Ikkousha Ramen | [view](./hakata-ikkousha-ramen.md) |
-| 元鮨壽司 Moto Sushi | [view](./moto-sushi-guanxin.md) |
+| 博多一幸舍拉麵 Hakata Ikkousha Ramen (Closed 已歇業) | [view](./hakata-ikkousha-ramen.md) |
+| 元鮨壽司 Moto Sushi (Closed 已歇業) | [view](./moto-sushi-guanxin.md) |
 | 鶴橋日式居酒屋 Tsuruhashi Izakaya | [view](./tsuruhashi-izakaya.md) |
-| UDON讚岐烏龍麵-關新店 Sanuki Udon | [view](./udon-sanuki-guanxin.md) |
+| UDON讚岐烏龍麵-關新店 Sanuki Udon (Closed 已歇業) | [view](./udon-sanuki-guanxin.md) |
 
 ### Taiwanese & Hakka 台式・客家料理
 

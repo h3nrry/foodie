@@ -6,17 +6,17 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 
 新竹市市轄各區。新竹縣（竹北、峨眉、尖石等周邊鄉鎮）請見 Taiwan 首頁，該縣有獨立導覽。
 
-100 spots across 3 district(s).
+119 spots across 3 district(s).
 
 | District | File | Areas | Spots |
 |---|---|---|---|
-| East District 東區 | [east-district.md](./east-district.md) | 21 | 74 |
+| East District 東區 | [east-district.md](./east-district.md) | 17 | 93 |
 | North District 北區 | [north-district.md](./north-district.md) | 13 | 21 |
 | Xiangshan District 香山區 | [xiangshan-district.md](./xiangshan-district.md) | 4 | 5 |
 
 ---
 
-100 spots in this folder, split into Food and Drink. More categories may be added here in the future.
+119 spots in this folder, split into Food and Drink. More categories may be added here in the future.
 
 此資料夾共有以下項目，依「餐飲」與「飲品」分類列出。未來可能會新增更多分類。
 
@@ -39,9 +39,12 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 | 阿婆早餐麵店 A Po Breakfast Noodle Shop | Dongshan St. / Park Rd. area 東山街・公園路周邊 | [view](./east-district/dongshan-park/a-po-breakfast-noodle-shop.md) |
 | 竹蓮肉圓 Zhu Lian Meatballs | Minzu / Xida Rd. area 民族路・西大路周邊 | [view](./east-district/minzu-xida/zhu-lian-meatballs.md) |
 | 竹蓮什錦麵 Zhu Lian Mixed Noodles | Minzu / Xida Rd. area 民族路・西大路周邊 | [view](./east-district/minzu-xida/zhu-lian-mixed-noodles.md) |
-| 梅花雞蛋糕 Mei Hua Plum-Blossom Egg Cakes | Zhongzheng Rd. area 中正路周邊（東區） | [view](./east-district/zhongzheng-rd-east/mei-hua-egg-cakes.md) |
+| 梅花雞蛋糕 Mei Hua Plum-Blossom Egg Cakes | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/mei-hua-egg-cakes.md) |
 | 禾米雞腿大王 | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/hemi-chicken-leg-king.md) |
 | 鷹王肉圓 Eagle King Meatballs | Yanping Rd. area 延平路周邊 | [view](./xiangshan-district/yanping-rd/eagle-king-meatballs.md) |
+| 東門米粉攤 Dongmen Rice Noodle Soup | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/dongmen-rice-noodle-stall.md) |
+| 禾日香（民族路）He Jih Hsiang Braised Pork Rice | Minzu / Xida Rd. area 民族路・西大路周邊 | [view](./east-district/minzu-xida/he-jih-hsiang-minzu.md) |
+| 原味鴨肉麵 Yuan Wei Duck Noodle | Shengli Rd. area 勝利路周邊（東區） | [view](./east-district/shengli-rd-east/yuan-wei-duck-noodle.md) |
 
 ### Hot Pot 火鍋
 
@@ -51,6 +54,8 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 | 鍋牛鍋物 Guo Niu Hot Pot | Minzu / Xida Rd. area 民族路・西大路周邊 | [view](./east-district/minzu-xida/guo-niu-hot-pot.md) |
 | 鼎盛十里鍋物 Dingsheng Shili Hot Pot | Guanxin area 關新地區 | [view](./east-district/guanxin-area/dingsheng-shili-hot-pot.md) |
 | 老東家重慶麻辣鍋 Lao Dong Jia Chongqing Spicy Hot Pot | Guanxin area 關新地區 | [view](./east-district/guanxin-area/lao-dong-jia-hot-pot.md) |
+| 鬥牛士二鍋（巨城店）Bullfight Two Hotpots | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/bullfight-two-hotpots-bigcity.md) |
+| 新馬辣經典麻辣鍋（巨城店）New Mala Hot Pot | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/new-mala-bigcity.md) |
 
 ### Fast Food Chains 連鎖速食
 
@@ -74,11 +79,11 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 | 南大路無名攤車飯糰 Nanda Rd Rice Ball Cart | Nanda Rd. area 南大路周邊 | [view](./east-district/nanda-rd/nanda-rice-ball-cart.md) |
 | 有夠爛花生湯 Gou Lan Peanut Soup | Minzu / Xida Rd. area 民族路・西大路周邊 | [view](./east-district/minzu-xida/gou-lan-peanut-soup.md) |
 | 新銘早餐店 Xinming Breakfast | Nanda Rd. area 南大路周邊 | [view](./east-district/nanda-rd/xinming-breakfast.md) |
-| 無名早餐店饅頭肉排蛋 | Xuefu Rd. area 學府路周邊 | [view](./east-district/xuefu-rd/wuming-breakfast-mantou.md) |
+| 無名早餐店饅頭肉排蛋 | Jiangong 1st Rd. / University Rd. area 建功一路・大學路（清交）周邊 | [view](./east-district/jiangong-1rd/wuming-breakfast-mantou.md) |
 | 來來豆漿店 Lailai Soy Milk | Jiangong 1st Rd. area 建功一路周邊 | [view](./east-district/jiangong-1rd/lailai-soy-milk.md) |
-| 皇膳湯包 Huangshan Soup Dumplings | Baoshan Rd. area 寶山路周邊（東區） | [view](./east-district/baoshan-rd-east/huangshan-soup-dumplings.md) |
+| 皇膳湯包 Huangshan Soup Dumplings | Dongshan St. / Park Rd. area 東山街・公園路周邊 | [view](./east-district/dongshan-park/huangshan-soup-dumplings.md) |
 | 手工現做燒餅屋 Handmade Clay Oven Rolls | Dongshan St. / Park Rd. area 東山街・公園路周邊 | [view](./east-district/dongshan-park/handmade-clay-oven-rolls.md) |
-| 新竹薯霸早餐 Shuba Breakfast | Shijie St. area 世界街周邊 | [view](./east-district/shijie-st/shuba-breakfast.md) |
+| 新竹薯霸早餐 Shuba Breakfast | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/shuba-breakfast.md) |
 | 東南漢堡店 Dongnan Hamburger | Dongnan St. area 東南街周邊 | [view](./east-district/dongnan-st/dongnan-hamburger.md) |
 | 山房吐司料理 Mountain House Toast | Dongnan St. area 東南街周邊 | [view](./east-district/dongnan-st/mountain-house-toast.md) |
 
@@ -88,6 +93,7 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 |---|---|---|
 | 御廚雲泰美食 Yuchu Cloud Thai Food | Minfu St. area 民富街周邊 | [view](./north-district/minfu-st/yuchu-thai-fried-rice.md) |
 | NARA Thai Cuisine（新竹SOGO店） | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/nara-thai-sogo.md) |
+| 帕泰家 Baan Phadthai（巨城店） | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/baan-phadthai-bigcity.md) |
 
 ### Desserts & Afternoon Tea 甜點下午茶
 
@@ -97,7 +103,7 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 | 大騰肉夾饃 Da Teng Rou Jia Mo | Ximen St. area 西門街周邊 | [view](./north-district/ximen-st/da-teng-rou-jia-mo.md) |
 | 慢慢甜點 Man Man Dessert | Wenchang St. area 文昌街周邊 | [view](./east-district/wenchang-st/man-man-dessert.md) |
 | 一百種味道 One Hundred Tastes | Sanmin / Xinzhuang St. area 三民路・新莊街周邊 | [view](./east-district/sanmin-xinzhuang/one-hundred-tastes.md) |
-| 小木屋鬆餅 Little Wooden House Pancakes | University Rd. area 大學路（清交）周邊 | [view](./east-district/daxue-rd/little-wooden-house-pancakes.md) |
+| 小木屋鬆餅 Little Wooden House Pancakes | Jiangong 1st Rd. / University Rd. area 建功一路・大學路（清交）周邊 | [view](./east-district/jiangong-1rd/little-wooden-house-pancakes.md) |
 | Yamada 山田麻糬製造所 | Wenchang St. area 文昌街周邊 | [view](./east-district/wenchang-st/yamada-mochi.md) |
 | Yu. Tarte & Yu. Pudding | Shengli Rd. area 勝利路周邊（東區） | [view](./east-district/shengli-rd-east/yu-tarte-yu-pudding.md) |
 | 沒有名字的蛋糕店 Unnamed Cake Shop | Zhonghua Rd. area 中華路周邊 | [view](./xiangshan-district/zhonghua-rd/unnamed-cake-shop.md) |
@@ -121,19 +127,23 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 
 | Name | Area | Details |
 |---|---|---|
-| 元鮨壽司 Moto Sushi | Guanxin area 關新地區 | [view](./east-district/guanxin-area/moto-sushi-guanxin.md) |
+| 元鮨壽司 Moto Sushi (Closed 已歇業) | Guanxin area 關新地區 | [view](./east-district/guanxin-area/moto-sushi-guanxin.md) |
 | 鶴橋日式居酒屋 Tsuruhashi Izakaya | Guanxin area 關新地區 | [view](./east-district/guanxin-area/tsuruhashi-izakaya.md) |
-| 博多一幸舍拉麵 Hakata Ikkousha Ramen | Guanxin area 關新地區 | [view](./east-district/guanxin-area/hakata-ikkousha-ramen.md) |
-| UDON讚岐烏龍麵-關新店 Sanuki Udon | Guanxin area 關新地區 | [view](./east-district/guanxin-area/udon-sanuki-guanxin.md) |
+| 博多一幸舍拉麵 Hakata Ikkousha Ramen (Closed 已歇業) | Guanxin area 關新地區 | [view](./east-district/guanxin-area/hakata-ikkousha-ramen.md) |
+| UDON讚岐烏龍麵-關新店 Sanuki Udon (Closed 已歇業) | Guanxin area 關新地區 | [view](./east-district/guanxin-area/udon-sanuki-guanxin.md) |
 | 大戶屋（新竹SOGO店）Ootoya | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/ootoya-sogo.md) |
-| 寧居酒屋 | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/ning-izakaya-jinshan.md) |
-| 大海拉麵 | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/taikai-ramen-jinshan.md) |
+| 大海拉麵 Dahai Ramen (Hsinchu) | Shengli Rd. area 勝利路周邊（東區） | [view](./east-district/shengli-rd-east/dahai-ramen-shengli.md) |
+| 伊勢路勝勢 Katsusei Tonkatsu（巨城店） | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/katsusei-bigcity.md) |
+| 京都勝牛（巨城店）Kyoto Katsugyu | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/kyoto-katsugyu-bigcity.md) |
+| 壽司郎（巨城店）Sushiro | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/sushiro-bigcity.md) |
+| 屯京拉麵 Tonchin Ramen（巨城店） | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/tonchin-ramen-bigcity.md) |
 
 ### Taiwanese & Hakka 台式・客家料理
 
 | Name | Area | Details |
 |---|---|---|
 | 竹美私房料理 Zhumei Private Kitchen | Guanxin area 關新地區 | [view](./east-district/guanxin-area/zhumei-private-kitchen.md) |
+| 時時香 SHANN RICE BAR（巨城店） | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/shann-rice-bar-bigcity.md) |
 
 ### Indian 印度料理
 
@@ -147,6 +157,13 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 |---|---|---|
 | 漢神鐵板燒-關新店 Han Shen Teppanyaki | Guanxin area 關新地區 | [view](./east-district/guanxin-area/hanshen-teppanyaki-guanxin.md) |
 | 大饌鐵板燒 | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/dazuan-teppanyaki-jinshan.md) |
+| 舞紅花鐵板燒（新竹SOGO巨城店）Hung Hwa Teppanyaki | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/hunghwa-teppanyaki-sogo.md) |
+| 老爺鐵板燒（新竹老爺酒店）Royal Teppanyaki | Guangfu Rd. area 光復路周邊 | [view](./east-district/guangfu-rd/royal-teppanyaki-hsinchu.md) |
+| 登野精緻鐵板料理 Dengye Teppanyaki | Guanxin area 關新地區 | [view](./east-district/guanxin-area/dengye-teppanyaki-guanxin.md) |
+| 菳蒔鐵板料理 Jin10 Teppanyaki | Guanxin area 關新地區 | [view](./east-district/guanxin-area/jin10-teppanyaki-guanxin.md) |
+| 大埔鐵板燒（林森路）Dapu Teppanyaki | Linsen / Zhonghua Rd. area 林森路・中華路周邊（東區） | [view](./east-district/linsen-zhonghua/dapu-teppanyaki-linsen.md) |
+| 宏禧鐵板燒（中華店）Hongxi Teppanyaki | Linsen / Zhonghua Rd. area 林森路・中華路周邊（東區） | [view](./east-district/linsen-zhonghua/hongxi-teppanyaki-zhonghua.md) |
+| 明水然・樂（新竹大遠百店）Minsui Zenraku Omakase Teppanyaki | Minzu / Xida Rd. area 民族路・西大路周邊 | [view](./east-district/minzu-xida/minsui-zenraku-feds.md) |
 
 ### Hunan Chinese 湖南菜
 
@@ -165,7 +182,9 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 | Name | Area | Details |
 |---|---|---|
 | 鼎泰豐（新竹大遠百店）Din Tai Fung | Minzu / Xida Rd. area 民族路・西大路周邊 | [view](./east-district/minzu-xida/dintaifung-feds.md) |
-| 游麵館 | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/yu-noodle-jinshan.md) |
+| 游麵館（金山店） Yu Noodle House | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/yu-noodle-jinshan.md) |
+| 菜園 Garden.V (Shanghainese) | Dongda Rd. area 東大路周邊 | [view](./east-district/dongda-rd/garden-v-dongda.md) |
+| 朱記餡餅粥店（巨城店）Zhu Ji | Dongmen / Zhongyang Rd. area 東門・中央路周邊 | [view](./east-district/dongmen-area/zhuji-bigcity.md) |
 
 ### Buffet 自助餐
 
@@ -189,7 +208,7 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 
 | Name | Area | Details |
 |---|---|---|
-| 陳興記 | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/chen-xing-ji-jinshan.md) |
+| 陳興記港式快餐店 Chen Xing Ji HK Roast Meats | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/chen-xing-ji-jinshan.md) |
 
 ### Southeast Asian 南洋料理
 
@@ -207,7 +226,7 @@ Districts within Hsinchu City proper. See the Taiwan index for Hsinchu County (s
 
 | Name | Area | Details |
 |---|---|---|
-| 墨竹亭麵本家 | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/muzhuting-noodle-jinshan.md) |
+| 墨竹亭｜燃麵本家（新竹金山店） Mo Zhu Ting Ran-Mian Noodles | Jinshan St. area 金山街周邊 | [view](./east-district/jinshan-area/muzhuting-noodle-jinshan.md) |
 
 ### Seafood 海鮮
 
